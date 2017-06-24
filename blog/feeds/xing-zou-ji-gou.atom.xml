@@ -18,4 +18,6 @@ window.onload = function(){
       path: './../work/madeleine/src/' // path to source directory from current html file
     });
 }; 
-&lt;/script&gt;</summary><category term="行走機構"></category></entry></feed>
+&lt;/script&gt;
+
+&lt;p&gt;&lt;font face="標楷體" size="5"&gt;由於零件檔案過大,需等待幾秒&lt;/font&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="行走機構"></category></entry></feed>
