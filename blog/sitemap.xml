@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-06-24T11:52:10-00:00</lastmod>
+<lastmod>2017-06-28T01:44:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-06-24T11:52:10-00:00</lastmod>
+<lastmod>2017-06-28T01:44:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-06-24T11:52:10-00:00</lastmod>
+<lastmod>2017-06-28T01:44:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-06-24T11:52:10-00:00</lastmod>
+<lastmod>2017-06-28T01:44:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./hui-zhi-zuo-biao-zhou.html</loc>
+<lastmod>2017-06-21T12:08:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w17.html</loc>
+<lastmod>2017-06-21T12:08:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/xing-zou-ji-gou.html</loc>
 <lastmod>2017-06-21T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -54,6 +68,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/xing-zou-ji-gou.html</loc>
+<lastmod>2017-06-21T12:08:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w17.html</loc>
 <lastmod>2017-06-21T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
