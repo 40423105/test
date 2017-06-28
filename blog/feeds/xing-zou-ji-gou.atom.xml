@@ -17,12 +17,27 @@ window.onload = function(){
       data: './../final/fourbar/ALL.stl', // data path
       path: './../work/madeleine/src/' // path to source directory from current html file
     });
-<<<<<<< HEAD
-};
-
-=======
 }; 
->>>>>>> 1d79e561a3fdb056d58311346fcb147b7bf415c5
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
 &lt;/script&gt;
 
-&lt;p&gt;&lt;font face="標楷體" size="5"&gt;由於零件檔案過大,需等待幾秒&lt;/font&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="行走機構"></category></entry></feed>
+&lt;p&gt;&lt;font face="標楷體" size="5"&gt;由於零件檔案過大,需等待幾秒&lt;/font&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;=======
+&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="標楷體" size="5"&gt;由於零件檔案過大,需等待幾秒&lt;/font&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1d79e561a3fdb056d58311346fcb147b7bf415c5&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;</summary><category term="行走機構"></category></entry></feed>
